@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="DemoqaClass" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-29T17:27:55" hostname="LAPTOP-3K53NGNO" time="14.478">
+<testsuite name="DemoqaClass" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-29T17:39:43" hostname="LAPTOP-3K53NGNO" time="10.987">
   <properties/>
-  <testcase name="demoQA00()" classname="DemoqaClass" time="14.478"/>
+  <testcase name="demoQA00()" classname="DemoqaClass" time="10.987"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[SLF4J: No SLF4J providers were found.
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
-окт. 29, 2023 8:28:02 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+окт. 29, 2023 8:39:48 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 118, so returning the closest version found: 117
 ]]></system-err>
 </testsuite>
