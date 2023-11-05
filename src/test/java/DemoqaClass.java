@@ -10,8 +10,6 @@ public class DemoqaClass {
 
     @Test
     void demoQA00() {
-
-        Configuration.holdBrowserOpen = true;
         Configuration.browserSize = "1920x1080";
         Configuration.pageLoadStrategy = "eager";
 
